@@ -1,0 +1,23 @@
+{
+  "name": "Hangman",
+  "version": "1.0.0",
+  "description": "Advance JS:  constructor assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smcelfresh/Hangman.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smcelfresh/Hangman/issues"
+  },
+  "homepage": "https://github.com/smcelfresh/Hangman#readme",
+  "dependencies": {
+    "inquirer": "^5.1.0"
+  }
+}
